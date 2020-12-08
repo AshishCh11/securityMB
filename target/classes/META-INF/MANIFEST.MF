@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot-Security-Mysql-Example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Ashish
+Implementation-Vendor-Id: com.example.springsecurity
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBoot-Security-Mysql-Example
+Created-By: Maven Integration for Eclipse
+
